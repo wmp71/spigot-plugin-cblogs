@@ -1,0 +1,11 @@
+name: command-block-logs
+main: com.pb.cbindex.CBIndex
+version: 1.00
+api-version: 1.13
+commands:
+   cblogs:
+      description: List of command block executions
+      usage: "/<command> "
+   cbindex:
+      description: DEPRECATED
+      usage: "/<command> "
