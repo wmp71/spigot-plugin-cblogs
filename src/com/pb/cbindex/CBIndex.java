@@ -1,7 +1,6 @@
 package com.pb.cbindex;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.pb.cbindex.CommandCBIndex;
 import com.pb.cbindex.CommandCBLogs;
 
 import java.text.SimpleDateFormat;
